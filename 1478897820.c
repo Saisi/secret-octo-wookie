@@ -1,0 +1,25 @@
+/*
+ * This is a RANDOMLY GENERATED PROGRAM.
+ *
+ * Generator: csmith 2.2.0
+ * Git version: dcef523
+ * Options:   (none)
+ * Seed:      2222464080
+ */
+
+#include "csmith.h"
+
+
+static long __undefined;
+
+/* --- Struct/Union Declarations --- */
+struct S0 {
+   signed f0 : 22;
+   volatile signed f1 : 19;
+   const unsigned f2 : 9;
+   volatile uint32_t  f3;
+   signed f4 : 2;
+   signed f5 : 6;
+   volatile unsigned f6 : 15;
+};
+
