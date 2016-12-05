@@ -1,0 +1,25 @@
+/*
+ * This is a RANDOMLY GENERATED PROGRAM.
+ *
+ * Generator: csmith 2.2.0
+ * Git version: dcef523
+ * Options:   (none)
+ * Seed:      803295228
+ */
+
+#include "csmith.h"
+
+
+static long __undefined;
+
+/* --- Struct/Union Declarations --- */
+/* --- GLOBAL VARIABLES --- */
+static uint32_t g_6 = 18446744073709551615UL;
+static int8_t g_18 = 0L;
+static uint32_t g_22 = 0xA1654207L;
+static uint32_t g_38 = 0xF25DB2B0L;
+static uint32_t *g_37 = &g_38;
+static uint16_t g_47[4][7][3] = {{{0xEF7DL,7UL,0xAB6AL},{0x85C2L,65535UL,3UL},{7UL,0xAB6AL,0xDF15L},{0x85C2L,1UL,2UL},{0xEF7DL,0x4FE1L,0x4FE1L},{0xA64EL,3UL,0x4FE1L},{0x398EL,7UL,2UL}},{{0x5063L,0x398EL,0xDF15L},{0xDB95L,0x9448L,3UL},{0xA6F3L,0x398EL,0xAB6AL},{65535UL,7UL,0xEF7DL},{3UL,3UL,0x398EL},{3UL,0x4FE1L,0xA6F3L},{65535UL,1UL,65535UL}},{{0xA6F3L,0xAB6AL,65535UL},{0xDB95L,7UL,0x85C2L},{0xDF15L,0x9448L,0xEF7DL},{0xA64EL,0xAB6AL,0xA64EL},{1UL,0xAB6AL,0x398EL},{0x398EL,0x9448L,0x5063L},{0xAB6AL,7UL,0xDB95L}},{{0x4FE1L,0x5063L,0xA6F3L},{0xAB6AL,2UL,65535UL},{0x398EL,3UL,3UL},{1UL,0xDB95L,3UL},{0xA64EL,0x4FE1L,65535UL},{0xDF15L,0xA64EL,0xA6F3L},{1UL,65535UL,0xDB95L}}};
+static int64_t g_65 = 0xDA72DF2008693C25LL;
+static int32_t g_68 = 0x2A428954L;
+static uint64_t g_80 = 18446744073709551608UL;
