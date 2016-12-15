@@ -1,0 +1,25 @@
+/*
+ * This is a RANDOMLY GENERATED PROGRAM.
+ *
+ * Generator: csmith 2.2.0
+ * Git version: dcef523
+ * Options:   (none)
+ * Seed:      1249295887
+ */
+
+#include "csmith.h"
+
+
+static long __undefined;
+
+/* --- Struct/Union Declarations --- */
+struct S0 {
+   const int8_t  f0;
+   uint32_t  f1;
+   uint32_t  f2;
+};
+
+/* --- GLOBAL VARIABLES --- */
+static int64_t g_10 = 0x1878ABC106EC6E54LL;
+static int64_t g_13[6][6] = {{0x7D670012AF0488F4LL,3L,0x7CC4247706695998LL,(-3L),0x7CC4247706695998LL,3L},{(-4L),0x7D670012AF0488F4LL,0x7CC4247706695998LL,0x368A9017CA4E8652LL,0L,(-3L)},{4L,0x368A9017CA4E8652LL,3L,3L,0x368A9017CA4E8652LL,4L},{3L,0x368A9017CA4E8652LL,4L,6L,0L,0x7CC4247706695998LL},{0x7CC4247706695998LL,0x7D670012AF0488F4LL,(-4L),0x7D670012AF0488F4LL,0x7CC4247706695998LL,0x368A9017CA4E8652LL},{0x7CC4247706695998LL,3L,0x7D670012AF0488F4LL,6L,(-1L),(-1L)}};
+static int64_t *g_30[8] = {&g_13[5][3],&g_13[5][3],&g_13[5][3],&g_13[5][3],&g_13[5][3],&g_13[5][3],&g_13[5][3],&g_13[5][3]};
