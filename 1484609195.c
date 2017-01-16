@@ -1,0 +1,25 @@
+/*
+ * This is a RANDOMLY GENERATED PROGRAM.
+ *
+ * Generator: csmith 2.2.0
+ * Git version: dcef523
+ * Options:   (none)
+ * Seed:      1086935536
+ */
+
+#include "csmith.h"
+
+
+static long __undefined;
+
+/* --- Struct/Union Declarations --- */
+union U0 {
+   volatile uint32_t  f0;
+   uint8_t  f1;
+   int8_t * const  f2;
+   const volatile unsigned f3 : 21;
+};
+
+/* --- GLOBAL VARIABLES --- */
+static volatile int32_t g_2[7][8] = {{(-9L),0x126FF23BL,0x126FF23BL,(-9L),0x8ECF54C3L,1L,0x8ECF54C3L,(-9L)},{0x126FF23BL,0x8ECF54C3L,0x126FF23BL,0xAC453072L,0xD23B6182L,0xD23B6182L,0xAC453072L,0x126FF23BL},{0x8ECF54C3L,0x8ECF54C3L,0xD23B6182L,1L,7L,1L,0xD23B6182L,0x8ECF54C3L},{0x8ECF54C3L,0x126FF23BL,0xAC453072L,0xD23B6182L,0xD23B6182L,0xAC453072L,0x126FF23BL,0x8ECF54C3L},{0x126FF23BL,(-9L),0x8ECF54C3L,1L,0x8ECF54C3L,(-9L),0x126FF23BL,0x126FF23BL},{(-9L),1L,0xAC453072L,0xAC453072L,1L,(-9L),0x8ECF54C3L,0x126FF23BL},{0xAC453072L,0x126FF23BL,0x8ECF54C3L,0x126FF23BL,0xAC453072L,0xD23B6182L,0xD23B6182L,0xAC453072L}};
+static volatile int32_t g_3 = (-1L);/* VOLATILE GLOBAL g_3 */
