@@ -1,0 +1,25 @@
+/*
+ * This is a RANDOMLY GENERATED PROGRAM.
+ *
+ * Generator: csmith 2.2.0
+ * Git version: dcef523
+ * Options:   (none)
+ * Seed:      4105885918
+ */
+
+#include "csmith.h"
+
+
+static long __undefined;
+
+/* --- Struct/Union Declarations --- */
+/* --- GLOBAL VARIABLES --- */
+static int32_t * const g_4 = (void*)0;
+static uint8_t g_5[1][8][4] = {{{0UL,0UL,0UL,0UL},{0UL,0UL,0UL,0UL},{0UL,0UL,0UL,0UL},{0UL,0UL,0UL,0UL},{0UL,0UL,0UL,0UL},{0UL,0UL,0UL,0UL},{0UL,0UL,0UL,0UL},{0UL,0UL,0UL,0UL}}};
+static volatile int32_t g_6 = (-6L);/* VOLATILE GLOBAL g_6 */
+static int32_t g_7 = 0x1738AB65L;
+static uint64_t g_60[2][3][3] = {{{0x4730E92F9E84EBF8LL,0x4730E92F9E84EBF8LL,0x4730E92F9E84EBF8LL},{0x4730E92F9E84EBF8LL,0x4730E92F9E84EBF8LL,0x4730E92F9E84EBF8LL},{0x4730E92F9E84EBF8LL,0x4730E92F9E84EBF8LL,0x4730E92F9E84EBF8LL}},{{0x4730E92F9E84EBF8LL,0x4730E92F9E84EBF8LL,0x4730E92F9E84EBF8LL},{0x4730E92F9E84EBF8LL,0x4730E92F9E84EBF8LL,0x4730E92F9E84EBF8LL},{0x4730E92F9E84EBF8LL,0x4730E92F9E84EBF8LL,0x4730E92F9E84EBF8LL}}};
+static int8_t g_72 = 6L;
+static int32_t g_74[6] = {1L,1L,1L,1L,1L,1L};
+static volatile int32_t g_94 = 9L;/* VOLATILE GLOBAL g_94 */
+static volatile int32_t g_95 = (-6L);/* VOLATILE GLOBAL g_95 */
