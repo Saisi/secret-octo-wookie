@@ -1,0 +1,25 @@
+/*
+ * This is a RANDOMLY GENERATED PROGRAM.
+ *
+ * Generator: csmith 2.2.0
+ * Git version: dcef523
+ * Options:   (none)
+ * Seed:      166697477
+ */
+
+#include "csmith.h"
+
+
+static long __undefined;
+
+/* --- Struct/Union Declarations --- */
+union U0 {
+   int8_t  f0;
+   uint32_t  f1;
+   int8_t * volatile  f2;
+};
+
+/* --- GLOBAL VARIABLES --- */
+static int32_t g_2[1] = {0x71C7BF0BL};
+static uint32_t g_63[5][6] = {{0x2CA12535L,18446744073709551610UL,0x426AE69EL,0x426AE69EL,18446744073709551610UL,0x2CA12535L},{9UL,0x0CD8A6CEL,0UL,0UL,0x2CA12535L,0x85024D8FL},{18446744073709551610UL,0x5B06A83CL,0xB1AD31FCL,0x2CA12535L,0xB1AD31FCL,0x5B06A83CL},{18446744073709551610UL,0x85024D8FL,0x2CA12535L,0UL,0UL,0x0CD8A6CEL},{9UL,0x2CA12535L,18446744073709551610UL,0x426AE69EL,0x426AE69EL,18446744073709551610UL}};
+static int8_t g_77 = 0xDFL;
