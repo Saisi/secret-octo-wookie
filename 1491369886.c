@@ -1,0 +1,25 @@
+/*
+ * This is a RANDOMLY GENERATED PROGRAM.
+ *
+ * Generator: csmith 2.2.0
+ * Git version: dcef523
+ * Options:   (none)
+ * Seed:      3466572378
+ */
+
+#include "csmith.h"
+
+
+static long __undefined;
+
+/* --- Struct/Union Declarations --- */
+/* --- GLOBAL VARIABLES --- */
+static volatile int32_t g_3 = 0xB1CECB45L;/* VOLATILE GLOBAL g_3 */
+static int32_t g_4 = (-5L);
+static int32_t g_5 = 0x1E814B73L;
+static uint16_t g_8 = 0x64F1L;
+static int32_t g_10[6][6] = {{0x4837182AL,0x4837182AL,0x4837182AL,0x4837182AL,0x4837182AL,0x4837182AL},{0x4837182AL,0x4837182AL,0x4837182AL,0x4837182AL,0x4837182AL,0x4837182AL},{0x4837182AL,0x4837182AL,0x4837182AL,0x4837182AL,0x4837182AL,0x4837182AL},{0x4837182AL,0x4837182AL,0x4837182AL,0x4837182AL,0x4837182AL,0x4837182AL},{0x4837182AL,0x4837182AL,0x4837182AL,0x4837182AL,0x4837182AL,0x4837182AL},{0x4837182AL,0x4837182AL,0x4837182AL,0x4837182AL,0x4837182AL,0x4837182AL}};
+static int32_t g_25 = 0x2B357F03L;
+static volatile uint16_t g_50 = 65534UL;/* VOLATILE GLOBAL g_50 */
+static uint8_t g_68[8] = {0x6AL,0x6AL,0x6AL,0x6AL,0x6AL,0x6AL,0x6AL,0x6AL};
+static uint16_t g_78 = 4UL;
