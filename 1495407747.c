@@ -1,0 +1,25 @@
+/*
+ * This is a RANDOMLY GENERATED PROGRAM.
+ *
+ * Generator: csmith 2.2.0
+ * Git version: dcef523
+ * Options:   (none)
+ * Seed:      778126920
+ */
+
+#include "csmith.h"
+
+
+static long __undefined;
+
+/* --- Struct/Union Declarations --- */
+/* --- GLOBAL VARIABLES --- */
+static uint64_t g_2[2][9] = {{0xE87DF2F4A8B108F8LL,0xDE2BBEF7D65121ACLL,0x2D4EA6801FC3EEE2LL,0x2D4EA6801FC3EEE2LL,0xDE2BBEF7D65121ACLL,0xE87DF2F4A8B108F8LL,0xDE2BBEF7D65121ACLL,0x2D4EA6801FC3EEE2LL,0x2D4EA6801FC3EEE2LL},{6UL,6UL,0xE87DF2F4A8B108F8LL,0x2D4EA6801FC3EEE2LL,0xE87DF2F4A8B108F8LL,6UL,6UL,0xE87DF2F4A8B108F8LL,0x2D4EA6801FC3EEE2LL}};
+static volatile int32_t g_3 = (-5L);/* VOLATILE GLOBAL g_3 */
+static int32_t g_4 = 1L;
+
+
+/* --- FORWARD DECLARATIONS --- */
+static const uint32_t  func_1(void);
+
+
